@@ -5,6 +5,13 @@ date: "10/25/2020"
 output: html_document
 ---
 
+Hello! 
+
+Surprise! You have made it to another page of unknown coding 
+![](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+
+Will I start a blog now? who knows!!! 
+
 
 
 

@@ -1,0 +1,8 @@
+---
+title: "midterms"
+author: "Karina Myers"
+date: "10/25/2020"
+output: html_document
+---
+
+<img src="image/midterms.jpg" style="width:75%">
