@@ -21,8 +21,6 @@ What I actually look [like](about.html)
 ### Hyperlinking
 [This is my sad class website](https://p8105.com/making_websites.html)
 
-### more than one page 
-[linking more than one page!](about.html)
 
 ### Adding Pictures
 <img src="image/trouble.jpg" style="width:75%">
@@ -33,7 +31,7 @@ Note
 
 
 ## BUT WAIT THERE'S MORE
-[index](sad.html)
+[index](midterm.html)
 
 
 ## more notes (_site.yml)
