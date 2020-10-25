@@ -4,7 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    theme: Flatly
 ---
 
 # This is Karina's (shitty) website
@@ -17,7 +17,7 @@ What I think I look like when I code...
 What I actually look [like](about.html)
 
 
-## Common Content
+## Basics 
 
 ### Hyperlinking
 [This is my sad class website](https://p8105.com/making_websites.html)
@@ -34,9 +34,10 @@ Note
 
 
 ## BUT WAIT THERE'S MORE
-[trouble](sad.html)
+[click me](sad.html)
 
-## _site.yml
+
+## more notes (_site.yml)
 
 Right now, all our pages have styling, output, and structure coming from page-specific YAML. It's better to have one set of rules that apply site wide. To do this, we'll create a single file with all the YAML stuff we need, and at the same remove extraneous YAML header content from individual Rmd files 
 
