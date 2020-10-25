@@ -4,7 +4,6 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: Flatly
 ---
 
 # This is Karina's (shitty) website
@@ -34,7 +33,7 @@ Note
 
 
 ## BUT WAIT THERE'S MORE
-[click me](sad.html)
+[index](sad.html)
 
 
 ## more notes (_site.yml)
