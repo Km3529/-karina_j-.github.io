@@ -1,5 +1,5 @@
 ---
-title: "Plotly and flexdashboard"
+title: "Plotly and flexdashboard Example"
 author: "Karina Myers"
 date: "10/25/2020"
 output: html_document
@@ -88,10 +88,6 @@ box_ggplot =
 
 ggplotly(box_ggplot)
 ```
-
-## Flexdashboard 
-clearly you can embed interactive graphics in HTML files produced by R markdown. Dashboards are a collection of related graphics (or tables or other outputs) that are displayed in a structured way that's easy to navigate 
-
 
 
 
