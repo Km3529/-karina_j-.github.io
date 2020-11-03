@@ -1,0 +1,51 @@
+---
+title: "Karina's Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Welcome to Karina's Website
+
+
+![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+What I think I look like when I code... 
+
+What I actually look [like](about.html)
+
+
+## Basics 
+
+### Hyperlinking
+[This is my sad class website](https://p8105.com/making_websites.html)
+
+
+### Adding Pictures
+<img src="image/trouble.jpg" style="width:75%">
+
+Note
+ - style component is adding border, adjusting height, etc 
+ - If you want your style rules to apply to all images, you can write a CSS file 
+
+
+## BUT WAIT THERE'S MORE
+[index](midterm.html)
+
+
+## more notes (_site.yml)
+
+Right now, all our pages have styling, output, and structure coming from page-specific YAML. It's better to have one set of rules that apply site wide. To do this, we'll create a single file with all the YAML stuff we need, and at the same remove extraneous YAML header content from individual Rmd files 
+
+Our _site.yml file had information about output options and the navbar.
+
+R Project 
+```{r}
+#rmarkdown::render_site()
+```
+This rebuilds the full website, whereas knit only rebuilds a page. 
+
+
+
+
